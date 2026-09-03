@@ -13,4 +13,4 @@ de momento no lo he desplegado
 aprendia a entender mas de las funcionamientos de github de como los div no son lo mejor si no es estetica 
 
 ## Qué no alcancé a hacer
-no entindi la parte de la validacion, y como hacer esto no lo hecho me gustaria enter que hacer y como 
+no entindi la parte de la validacion, y como hacer esto no lo hecho me gustaria enter que hacer y como hacer el pull y el tag
