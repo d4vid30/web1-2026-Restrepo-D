@@ -50,4 +50,4 @@ solo fui haciendo un poco mejor todo
 todo lo escribi yo 
 
 ## Reflexión
-si por que no tuve mucho tiempo de leer toda se sesion  en el github y me fue mas rapido que el leyera el el github por mi igual cabe aclarar que ya la siguiente semana leo yo todo con mas tiempo
+si por que no tuve mucho tiempo de leer toda se sesion  en el github y me fue mas rapido que el leyera el el github por mi igual cabe aclarar que ya la siguiente semana leo yo todo con mas tiempo me toco hacer de nuevo el repositorio 
